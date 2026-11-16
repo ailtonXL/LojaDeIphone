@@ -35,7 +35,7 @@ function move(direction){
  const target=direction>0?(track.scrollLeft>=max-3?0:Math.min(max,track.scrollLeft+step)):(track.scrollLeft<=3?max:Math.max(0,track.scrollLeft-step));
  track.scrollTo({left:target,behavior:reduced.matches?'instant':'smooth'});
 }
-function schedule(){clearInterval(timer);timer=null;if(!paused&&!hovered&&!document.hidden)timer=setInterval(()=>move(1),4500);}
+function schedule(){clearInterval(timer);timer=null;if(!paused&&!hovered&&!document.hidden)timer=setInterval(()=>move(1),5000);}
 function pause(){paused=true;schedule();update();}
 function applyFilters(){cards.forEach(card=>{card.hidden=(selected!=='all'&&card.dataset.category!==selected)||(generation.value!=='all'&&card.dataset.generation!==generation.value)});track.scrollTo({left:0,behavior:'instant'});requestAnimationFrame(update);schedule();}
 filters.forEach(button=>button.addEventListener('click',()=>{selected=button.dataset.filter;filters.forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});applyFilters();}));
