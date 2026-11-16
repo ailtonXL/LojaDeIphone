@@ -1,0 +1,20 @@
+[
+  {
+    "model": "iPhone 15 Pro",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=1200&hei=1200&fmt=png-alpha",
+    "local_file": "dist/catalogo-iphone-15-pro.png",
+    "note": "Official Apple product image; original PNG with alpha preserved."
+  },
+  {
+    "model": "iPhone 15",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pink-202412?wid=1200&hei=1200&fmt=png-alpha",
+    "local_file": "dist/catalogo-iphone-15.png",
+    "note": "Official Apple product image; original PNG with alpha preserved."
+  },
+  {
+    "model": "iPhone 15 Plus",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=1200&hei=1200&fmt=png-alpha",
+    "local_file": "dist/catalogo-iphone-15-plus.png",
+    "note": "Official Apple product image; original PNG with alpha preserved."
+  }
+]
