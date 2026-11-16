@@ -5,5 +5,7 @@
   "location": "João Pessoa - PB",
   "source": "Public Instagram profile metadata retrieved 2026-11-16",
   "palette": "Navy and white, based on profile picture",
-  "contact": "Official Instagram profile; WhatsApp pending confirmation"
+  "contact": "WhatsApp +55 83 99652-6168",
+  "contact_source": "https://goo.gl/5gNPso",
+  "contact_resolved_url": "https://api.whatsapp.com/send?phone=5583996526168"
 }

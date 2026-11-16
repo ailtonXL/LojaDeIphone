@@ -22,12 +22,12 @@ Azul-marinho e branco, logo e posicionamento de produtos e assistência Apple ba
 - Carrossel com avanço automático, pausa, setas, deslize no celular e navegação por teclado.
 - Filtros combinados por geração e categoria, com respeito à preferência de movimento reduzido.
 - Imagens oficiais do catálogo com frente e verso e fundo transparente.
-- Contato pelo perfil oficial @oseuiphone no Instagram, até a confirmação do WhatsApp da marca.
+- Contato pelo WhatsApp (83) 99652-6168, com mensagens específicas por modelo e para assistência.
 - Perguntas frequentes e layout para celular e desktop.
 
 ## Personalização
 
-O conteúdo, os estilos e os scripts estão em `index.html`. Os links de contato apontam para https://www.instagram.com/oseuiphone/. Consulte `image-sources.json` para a origem das imagens do catálogo. A imagem principal foi aprimorada com IA a partir da imagem fornecida pelo responsável pela loja.
+O conteúdo, os estilos e os scripts estão em `index.html`. Os botões de consulta apontam para o WhatsApp `5583996526168`. Os links do Instagram levam ao perfil oficial https://www.instagram.com/oseuiphone/. Consulte `image-sources.json` para a origem das imagens do catálogo. A imagem principal foi aprimorada com IA a partir da imagem fornecida pelo responsável pela loja.
 
 ## Publicação
 
