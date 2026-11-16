@@ -14,7 +14,9 @@ Acesse http://localhost:8000.
 
 ## Funcionalidades
 
-- Catálogo de iPhone 15 Pro, iPhone 15 e iPhone 15 Plus, com filtros.
+- Catálogo de 31 modelos: linhas iPhone 11 a 18 Pro Max, incluindo mini, Plus, Pro, Pro Max, Air, 16e e 17e.
+- Carrossel com avanço automático, pausa, setas, deslize no celular e navegação por teclado.
+- Filtros combinados por geração e categoria, com respeito à preferência de movimento reduzido.
 - Imagens oficiais do catálogo com frente e verso e fundo transparente.
 - Links para WhatsApp com mensagem específica para cada modelo.
 - Perguntas frequentes e layout para celular e desktop.
@@ -24,6 +26,8 @@ Acesse http://localhost:8000.
 O conteúdo, os estilos e os scripts estão em `index.html`. Os links de contato usam o número `5583991089124`. Consulte `image-sources.json` para a origem das imagens do catálogo. A imagem principal foi aprimorada com IA a partir da imagem fornecida pelo responsável pela loja.
 
 ## Publicação
+
+Os modelos e as fontes das imagens também estão registrados em `catalog.json` e `image-sources.json`.
 
 Os arquivos são estáticos. Publique o conteúdo da raiz em uma hospedagem estática; não é necessário instalar pacotes nem executar um build.
 

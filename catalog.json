@@ -1,0 +1,219 @@
+[
+  {
+    "name": "iPhone 18 Pro",
+    "generation": 18,
+    "image": "iphone-18-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-burgundy-202609?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 18 Pro Max",
+    "generation": 18,
+    "image": "iphone-18-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-burgundy-202609?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 17",
+    "generation": 17,
+    "image": "iphone-17-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone Air",
+    "generation": 17,
+    "image": "iphone-air-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-skyblue-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "generation": 17,
+    "image": "iphone-17-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-cosmicorange-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "generation": 17,
+    "image": "iphone-17-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-max-finish-select-deepblue-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 17e",
+    "generation": 17,
+    "image": "iphone-17e-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-softpink-202603?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 16",
+    "generation": 16,
+    "image": "iphone-16-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-ultramarine-select-202409?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "generation": 16,
+    "image": "iphone-16-plus-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-pink-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "generation": 16,
+    "image": "iphone-16-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-pro-deserttitanium-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "generation": 16,
+    "image": "iphone-16-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-pro-max-deserttitanium-202509?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 16e",
+    "generation": 16,
+    "image": "iphone-16e-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16e-white-select-202502?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 15",
+    "generation": 15,
+    "image": "iphone-15-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pink-202412?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "generation": 15,
+    "image": "iphone-15-plus-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "generation": 15,
+    "image": "iphone-15-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "generation": 15,
+    "image": "iphone-15-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-max-naturaltitanium-202412?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 14",
+    "generation": 14,
+    "image": "iphone-14-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-14-blue-202404?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "generation": 14,
+    "image": "iphone-14-plus-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-14-plus-blue-202404?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "generation": 14,
+    "image": "iphone-14-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-14-pro-deeppurple-202404?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "generation": 14,
+    "image": "iphone-14-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-14-pro-max-deeppurple-202404?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 13 mini",
+    "generation": 13,
+    "image": "iphone-13-mini-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-13-mini-blue-2022?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 13",
+    "generation": 13,
+    "image": "iphone-13-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-13-blue-2023?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "generation": 13,
+    "image": "iphone-13-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-13-pro-blue-2023?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "generation": 13,
+    "image": "iphone-13-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-13-pro-max-blue-2023?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 12 mini",
+    "generation": 12,
+    "image": "iphone-12-mini-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-12-mini-blue-2020?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 12",
+    "generation": 12,
+    "image": "iphone-12-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-12-blue-2020?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "generation": 12,
+    "image": "iphone-12-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-12-pro-blue-2020?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "generation": 12,
+    "image": "iphone-12-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-12-pro-max-blue-2020?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 11",
+    "generation": 11,
+    "image": "iphone-11-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone11-black-2019?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "generation": 11,
+    "image": "iphone-11-pro-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-11-pro-midnight-green-2019?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "generation": 11,
+    "image": "iphone-11-pro-max-oficial.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-11-pro-max-space-gray-2019?wid=1000&hei=1000&fmt=png-alpha",
+    "alpha": true
+  }
+]
