@@ -1,11 +1,10 @@
 {
-  "name": "O Seu iPhone",
-  "instagram": "https://www.instagram.com/oseuiphone/",
-  "profile_title": "O Seu iPhone | Produtos e Assistência Apple",
-  "location": "João Pessoa - PB",
-  "source": "Public Instagram profile metadata retrieved 2026-11-16",
-  "palette": "Navy and white, based on profile picture",
-  "contact": "WhatsApp +55 83 99652-6168",
-  "contact_source": "https://goo.gl/5gNPso",
-  "contact_resolved_url": "https://api.whatsapp.com/send?phone=5583996526168"
+  "name": "Redphone",
+  "instagram": "https://www.instagram.com/oficial.redphone/",
+  "profile_title": "iPhone Macbook iPad Watch",
+  "location": "João Pessoa",
+  "profile_bio": "A melhor loja de iPhone da Paraíba; @soueudoug.of; Compras através do Direct; Parcelamos no cartão; João Pessoa",
+  "palette": "Black, red and white based on profile logo",
+  "contact": "Official Instagram profile / Direct, per profile biography",
+  "retrieved": "2026-11-19"
 }
