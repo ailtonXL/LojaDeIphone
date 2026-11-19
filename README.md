@@ -36,3 +36,7 @@ Os modelos e as fontes das imagens também estão registrados em `catalog.json` 
 Os arquivos são estáticos. Publique o conteúdo da raiz em uma hospedagem estática; não é necessário instalar pacotes nem executar um build.
 
 iPhone é uma marca da Apple Inc. A loja é independente. As imagens não indicam disponibilidade em estoque; consulte a loja.
+
+## Refinamento de design
+
+Visual refinado com a Taste Skill 2.5.1: tipografia, alinhamento, contraste, botões, movimento de entrada e interações. As cores da Redphone e o carrossel de 5 segundos foram preservados. A checagem de texto passou sem falhas ou avisos; a validação visual automática completa não foi executada.
