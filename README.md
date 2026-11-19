@@ -22,12 +22,12 @@ Preto, vermelho e branco, logo e apresentação de iPhone, MacBook, iPad e Watch
 - Carrossel com avanço automático, pausa, setas, deslize no celular e navegação por teclado.
 - Filtros combinados por geração e categoria, com respeito à preferência de movimento reduzido.
 - Imagens oficiais do catálogo com frente e verso e fundo transparente.
-- Contato pelo Direct do perfil oficial @oficial.redphone, conforme a bio da marca.
+- Contato pelo WhatsApp (83) 99349-8884, com mensagem específica para cada modelo.
 - Perguntas frequentes e layout para celular e desktop.
 
 ## Personalização
 
-O conteúdo, os estilos e os scripts estão em `index.html`. Os botões de consulta apontam para o Instagram oficial, onde as compras são feitas pelo Direct. Os links do Instagram levam ao perfil oficial https://www.instagram.com/oficial.redphone/. Consulte `image-sources.json` para a origem das imagens do catálogo. A imagem principal foi aprimorada com IA a partir da imagem fornecida pelo responsável pela loja.
+O conteúdo, os estilos e os scripts estão em `index.html`. Os botões de consulta apontam para o WhatsApp `5583993498884`, confirmado em imagem fornecida pelo usuário. Os links do Instagram levam ao perfil oficial https://www.instagram.com/oficial.redphone/. Consulte `image-sources.json` para a origem das imagens do catálogo. A imagem principal foi aprimorada com IA a partir da imagem fornecida pelo responsável pela loja.
 
 ## Publicação
 
